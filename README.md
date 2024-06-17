@@ -1,6 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Punam Bagal</h1>
 <h3 align="center">A passionate Java Full Stack/Web developer|Software Passionate supporter</h3>
 
+<h4> - i'm Currently learning Full Stack Java Developer</h4>
+<h4> - I know English, hindi, Marathi</h4>
+<h4> - About Me: BookWorm</h4>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/punam bagal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="punam bagal" height="30" width="40" /></a>
